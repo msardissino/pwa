@@ -1,5 +1,3 @@
-// alert("HOLAAAAA");
-
 let buttonPwa = document.querySelector('#buttonpwa');
 console.log(buttonPwa);
 
