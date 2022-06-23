@@ -17,7 +17,7 @@ window.addEventListener('beforeinstallprompt', (e) => {
 
 buttonPwa.addEventListener('click', async () => {
     // Esconde la información promotora de la instalación
-    hideInstallPromotion();
+    // hideInstallPromotion();
     // Muestre el mensaje de instalación
     deferredPrompt.prompt();
     // Espera a que el usuario responda al mensaje
